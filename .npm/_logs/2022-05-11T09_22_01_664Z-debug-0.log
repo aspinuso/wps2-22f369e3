@@ -1,0 +1,99 @@
+0 verbose cli [ '/opt/conda/bin/node', '/opt/conda/bin/npm', 'pack', '/jupyterlab' ]
+1 info using npm@8.5.5
+2 info using node@v17.8.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 14ms
+5 timing config:load:file:/opt/conda/lib/node_modules/npm/npmrc Completed in 12ms
+6 timing config:load:builtin Completed in 13ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/tmp/tmpbwo7vsse/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 27ms
+11 timing config:load:file:/home/jovyan/.npmrc Completed in 4ms
+12 timing config:load:user Completed in 5ms
+13 timing config:load:file:/opt/conda/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 9ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 84ms
+19 timing npm:load:configload Completed in 85ms
+20 timing npm:load:setTitle Completed in 1ms
+21 timing config:load:flatten Completed in 13ms
+22 timing npm:load:display Completed in 22ms
+23 verbose logfile /home/jovyan/.npm/_logs/2022-05-11T09_22_01_664Z-debug-0.log
+24 timing npm:load:logFile Completed in 22ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 135ms
+28 silly logfile start cleaning logs, removing 1 files
+29 http fetch GET 200 https://registry.npmjs.org/npm 586ms (cache updated)
+30 notice
+31 notice 📦  swirrlui@0.1.0
+32 notice === Tarball Contents ===
+33 notice 1.5kB LICENSE                                        
+33 notice 810B  README.md                                      
+33 notice 206B  lib/components/App.d.ts                        
+33 notice 5.0kB lib/components/App.js                          
+33 notice 376B  lib/components/ApplicationConfig.d.ts          
+33 notice 433B  lib/components/ApplicationConfig.js            
+33 notice 1.1kB lib/components/ApplicationContext.d.ts         
+33 notice 679B  lib/components/ApplicationContext.js           
+33 notice 117B  lib/components/Info.d.ts                       
+33 notice 837B  lib/components/Info.js                         
+33 notice 65B   lib/components/Login.d.ts                      
+33 notice 2.9kB lib/components/Login.js                        
+33 notice 516B  lib/components/modals/ActivityInfoModal.d.ts   
+33 notice 6.5kB lib/components/modals/ActivityInfoModal.js     
+33 notice 207B  lib/components/modals/LoginModal.d.ts          
+33 notice 2.0kB lib/components/modals/LoginModal.js            
+33 notice 414B  lib/components/modals/RestoreNotebookModal.d.ts
+33 notice 3.3kB lib/components/modals/RestoreNotebookModal.js  
+33 notice 88B   lib/components/SwirrlHeader.d.ts               
+33 notice 1.1kB lib/components/SwirrlHeader.js                 
+33 notice 266B  lib/components/WidgetHeader.d.ts               
+33 notice 1.2kB lib/components/WidgetHeader.js                 
+33 notice 432B  lib/components/widgets/ActivityRow.d.ts        
+33 notice 5.5kB lib/components/widgets/ActivityRow.js          
+33 notice 298B  lib/components/widgets/ActivityTable.d.ts      
+33 notice 4.2kB lib/components/widgets/ActivityTable.js        
+33 notice 263B  lib/components/widgets/DataStagingWidget.d.ts  
+33 notice 1.4kB lib/components/widgets/DataStagingWidget.js    
+33 notice 176B  lib/components/widgets/Github.d.ts             
+33 notice 6.9kB lib/components/widgets/Github.js               
+33 notice 374B  lib/components/widgets/SnapshotWidget.d.ts     
+33 notice 3.8kB lib/components/widgets/SnapshotWidget.js       
+33 notice 440B  lib/components/widgets/StatusWidget.d.ts       
+33 notice 1.1kB lib/components/widgets/StatusWidget.js         
+33 notice 210B  lib/index.d.ts                                 
+33 notice 833B  lib/index.js                                   
+33 notice 349B  lib/utils/github.d.ts                          
+33 notice 1.9kB lib/utils/github.js                            
+33 notice 1.2kB lib/utils/parseActivity.d.ts                   
+33 notice 3.3kB lib/utils/parseActivity.js                     
+33 notice 2.7kB lib/utils/swirrlApi.d.ts                       
+33 notice 5.0kB lib/utils/swirrlApi.js                         
+33 notice 81B   lib/utils/useIntervalHook.d.ts                 
+33 notice 529B  lib/utils/useIntervalHook.js                   
+33 notice 3.8kB package.json                                   
+33 notice 397B  style/base.css                                 
+33 notice 21B   style/index.js                                 
+34 notice === Tarball Details ===
+35 notice name:          swirrlui                                
+35 notice version:       0.1.0                                   
+35 notice filename:      swirrlui-0.1.0.tgz                      
+35 notice package size:  17.5 kB                                 
+35 notice unpacked size: 75.0 kB                                 
+35 notice shasum:        802cf4b06f3ed4471e3167124ba546610296f0b4
+35 notice integrity:     sha512-e4Q+fO4JpUo7m[...]3FEVpP1s/U3Ng==
+35 notice total files:   47                                      
+36 notice
+37 timing command:pack Completed in 839ms
+38 notice
+38 notice New minor version of npm available! 8.5.5 -> 8.9.0
+38 notice Changelog: <https://github.com/npm/cli/releases/tag/v8.9.0>
+38 notice Run `npm install -g npm@8.9.0` to update!
+38 notice
+39 verbose exit 0
+40 timing npm Completed in 1559ms
+41 info ok
